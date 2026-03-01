@@ -1,4 +1,4 @@
-## Anthony Barrett MBCS
+## Anthony Barrett
 
 Hi there, welcome to my Github profile 👋
 <br />
